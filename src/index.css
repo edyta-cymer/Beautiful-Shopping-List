@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+@font-face {
+  font-family: "Apropal";
+  src: local("Apropal"), url(./fonts/Apropal-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "NocturneSerif-Regular";
+  src: local("NocturneSerif-Regular"),
+    url(./fonts/NocturneSerif-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Bajaderka-Regular";
+  src: local("Bajaderka-Regular"),
+    url(./fonts/Bajaderka-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Magiel-Black";
+  src: local("Magiel-Black"), url(./fonts/Magiel-Black.ttf) format("truetype");
+}
